@@ -1,4 +1,7 @@
 cold and dry, but everything is my favourite colour.
+<<<<<<< HEAD
 The two moons may be a problem
 But the Mummy will appreciate the lack of humiditty.
 Supper is served
+=======
+>>>>>>> parent of 2e64a4d (Add concerns about effects of Mars moons)
